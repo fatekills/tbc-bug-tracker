@@ -25,7 +25,7 @@ increase the quality of your report.
 
 **Please consider using the below template for reporting bugs**
 
-**Summary:** A breif description of the bug
+**Summary:** A brief description of the bug
 
 **Steps to Reproduce:** Exact steps to reproduce the bug
 
